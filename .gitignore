@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.mp4
+*.mkdir
+*.avi
+*.mkv
+.DS_Store
+.vscode/
+.idea/
